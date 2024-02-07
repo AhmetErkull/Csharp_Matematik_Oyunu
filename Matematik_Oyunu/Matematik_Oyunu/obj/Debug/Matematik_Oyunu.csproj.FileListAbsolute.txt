@@ -1,0 +1,13 @@
+C:\Users\ahmet\Desktop\Matematik_Oyunu\Matematik_Oyunu\bin\Debug\Matematik_Oyunu.exe.config
+C:\Users\ahmet\Desktop\Matematik_Oyunu\Matematik_Oyunu\bin\Debug\Matematik_Oyunu.exe
+C:\Users\ahmet\Desktop\Matematik_Oyunu\Matematik_Oyunu\bin\Debug\Matematik_Oyunu.pdb
+C:\Users\ahmet\Desktop\Matematik_Oyunu\Matematik_Oyunu\obj\Debug\Matematik_Oyunu.csproj.AssemblyReference.cache
+C:\Users\ahmet\Desktop\Matematik_Oyunu\Matematik_Oyunu\obj\Debug\Matematik_Oyunu.csproj.SuggestedBindingRedirects.cache
+C:\Users\ahmet\Desktop\Matematik_Oyunu\Matematik_Oyunu\obj\Debug\Matematik_Oyunu.Properties.Resources.resources
+C:\Users\ahmet\Desktop\Matematik_Oyunu\Matematik_Oyunu\obj\Debug\Matematik_Oyunu.csproj.GenerateResource.cache
+C:\Users\ahmet\Desktop\Matematik_Oyunu\Matematik_Oyunu\obj\Debug\Matematik_Oyunu.csproj.CoreCompileInputs.cache
+C:\Users\ahmet\Desktop\Matematik_Oyunu\Matematik_Oyunu\obj\Debug\Matematik_Oyunu.exe
+C:\Users\ahmet\Desktop\Matematik_Oyunu\Matematik_Oyunu\obj\Debug\Matematik_Oyunu.pdb
+C:\Users\ahmet\Desktop\Matematik_Oyunu\Matematik_Oyunu\obj\Debug\Matematik_Oyunu.Baslangic_Ekranı.resources
+C:\Users\ahmet\Desktop\Matematik_Oyunu\Matematik_Oyunu\obj\Debug\Matematik_Oyunu.Seviyeler.resources
+C:\Users\ahmet\Desktop\Matematik_Oyunu\Matematik_Oyunu\obj\Debug\Matematik_Oyunu.Sorular.resources
